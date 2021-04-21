@@ -1,0 +1,15 @@
+{
+    "name": "module3",
+    "version": "1.0.0",
+    "description": "Conplete-nodejs-guide",
+    "main": "Assignment.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon module3.js"
+    },
+    "author": "Tony",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^2.0.7"
+    }
+}
